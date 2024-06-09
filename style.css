@@ -1,0 +1,13 @@
+.container{
+    max-width: 960px;
+    margin-inline: auto;
+}
+nav{
+    display: flex;
+   flex-direction: column;
+   gap: 2.5rem;
+}
+.box{
+    gap: 2.6rem;
+    background-color: aqua;
+}
